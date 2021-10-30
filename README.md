@@ -13,3 +13,5 @@
 - Requestes
 - Html5
 
+![](https://github.com/viniciuskurt/WebscrapingInDbEngines/blob/main/CodeWebScraping.gif)
+
